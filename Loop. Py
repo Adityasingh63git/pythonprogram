@@ -1,0 +1,8 @@
+D={}
+C=0
+St=input ("enter the name" )
+For i in range(0,len(St)
+Find=i(St)
+C=st. Count.(Find)
+Dict. Update(find:C)
+Print(dict)
